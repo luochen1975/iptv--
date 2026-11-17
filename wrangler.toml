@@ -5,4 +5,4 @@ compatibility_date = "2024-03-30"
 # 需要在Cloudflare后台创建一个名为 IPTV_DATA 的 KV Namespace，并将 ID 填入下方
 [[kv_namespaces]]
 binding = "IPTV_DATA"
-id = "fb460ea87eb7424cb22c9de13aa7514b"
+id = "fb460ea87eb7424cb22c9de13aa7514b" 
